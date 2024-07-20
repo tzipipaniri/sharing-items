@@ -1,0 +1,169 @@
+K:\agoraProject\Common1\bin\Debug\net6.0\Common1.deps.json
+K:\agoraProject\Common1\bin\Debug\net6.0\Common1.dll
+K:\agoraProject\Common1\bin\Debug\net6.0\Common1.pdb
+K:\agoraProject\Common1\bin\Debug\net6.0\Repository.dll
+K:\agoraProject\Common1\bin\Debug\net6.0\Repository.pdb
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.dll
+K:\agoraProject\Common1\obj\Debug\net6.0\refint\Common1.dll
+K:\agoraProject\Common1\obj\Debug\net6.0\Common1.pdb
+K:\agoraProject\Common1\obj\Debug\net6.0\ref\Common1.dll
+M:\C#++\agoraProject\Common1\bin\Debug\net6.0\Common1.deps.json
+M:\C#++\agoraProject\Common1\bin\Debug\net6.0\Common1.dll
+M:\C#++\agoraProject\Common1\bin\Debug\net6.0\Common1.pdb
+M:\C#++\agoraProject\Common1\bin\Debug\net6.0\Repository.dll
+M:\C#++\agoraProject\Common1\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.dll
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\refint\Common1.dll
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\Common1.pdb
+M:\C#++\agoraProject\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+M:\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+M:\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+M:\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+M:\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+M:\C#++\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+M:\C#++\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Common1\obj\Debug\net6.0\ref\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\Common1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\refint\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Common1\obj\Debug\net6.0\ref\Common1.dll

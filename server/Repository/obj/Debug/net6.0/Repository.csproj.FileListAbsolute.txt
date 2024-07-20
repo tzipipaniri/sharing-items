@@ -1,0 +1,155 @@
+E:\שנה ב\C#\agoraProject\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\שנה ב\C#\agoraProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\שנה ב\C#\agoraProject\Repository\bin\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\agoraProject\Repository\bin\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\שנה ב\C#\agoraProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.dll
+M:\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.dll
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.pdb
+M:\C#++\agoraProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\C#++\agoraProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+K:\agoraProject\Repository\bin\Debug\net6.0\Repository.deps.json
+K:\agoraProject\Repository\bin\Debug\net6.0\Repository.dll
+K:\agoraProject\Repository\bin\Debug\net6.0\Repository.pdb
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.dll
+K:\agoraProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+K:\agoraProject\Repository\obj\Debug\net6.0\Repository.pdb
+K:\agoraProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+M:\C#++\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+M:\C#++\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\Repository\obj\Debug\net6.0\ref\Repository.dll

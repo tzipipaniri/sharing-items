@@ -1,0 +1,177 @@
+K:\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+K:\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+K:\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.dll
+K:\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+K:\agoraProject\DataContext2\bin\Debug\net6.0\Repository.dll
+K:\agoraProject\DataContext2\bin\Debug\net6.0\Repository.pdb
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.dll
+K:\agoraProject\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+K:\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+K:\agoraProject\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.dll
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\Repository.dll
+M:\C#++\agoraProject\DataContext2\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.dll
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+M:\C#++\agoraProject\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+M:\C#++\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+M:\C#++\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\DataContext2.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\DataContext2.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\refint\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\DataContext2.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\DataContext2\obj\Debug\net6.0\ref\DataContext2.dll

@@ -1,0 +1,934 @@
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\appsettings.json
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Common1.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Repository.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Service1.dll
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+K:\agoraProject\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+K:\agoraProject\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\appsettings.json
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Common1.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Repository.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Service1.dll
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+M:\C#++\agoraProject\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+M:\C#++\agoraProject\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+M:\C#++\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\‏‏תיקיה חדשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\ניסיון להוספת בקשות\מעודכן\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\גיבוי\שישי הודעות\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\agora-project\AgoraProject1\bin\Debug\net6.0\html\htmlpage.html
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\appsettings.Development.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\appsettings.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\libman.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AgoraProject1.exe
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\html\htmlpage.html
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AgoraProject1.deps.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AgoraProject1.runtimeconfig.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AutoMapper.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Azure.Core.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Azure.Identity.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\MimeKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Common1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\DataContext2.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Repository.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Service1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Common1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\DataContext2.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Service1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\bin\Debug\net6.0\Repository.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.AssemblyReference.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfoInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.AssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CoreCompileInputs.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cs
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.MvcApplicationPartsAssemblyInfo.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.sourcelink.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets.build.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets.development.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.AgoraProject1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.build.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AgoraProject1.props
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\scopedcss\bundle\AgoraProject1.styles.css
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.csproj.CopyComplete
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\refint\AgoraProject1.dll
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.pdb
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\AgoraProject1.genruntimeconfig.cache
+C:\הכל\תכנות\שנה ב\פרויקט\אחרי ההגשה\agora project\server\AgoraProject1\obj\Debug\net6.0\ref\AgoraProject1.dll

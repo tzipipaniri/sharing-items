@@ -1,0 +1,8 @@
+.About , .background-image {
+    background-image: url('../../public/images/background.jpg'); /* נתיב לתמונת הרקע */
+    background-size: cover;
+     /* שמירה על היחסי גובה-רוחב של התמונה */
+    background-position: center;
+     /* מיקום התמונה באמצע הדף */
+    background-repeat: no-repeat; /* מניעת חזרה של התמונה */
+}
