@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Map from './Components/Map3'
+//import Map from './Components/Map3'--
 import { fetchCategories } from './Redux/CategorySlice';
-import AllCategories from './Components/AllCategories';
+//import AllCategories from './Components/AllCategories';--
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import SignUp from './Components/SignUp';
@@ -16,7 +16,7 @@ import FindItem from './Components/FindItem';
 import GiveItem from './Components/GiveItem';
 import ParentCategories from './Components/ParentCategories';
 import Navbar from './Components/Navbar';
-import Items2 from './Components/Items2';
+//import Items2 from './Components/Items2';--
 import Responses from './Components/Responses';
 import AddResponse from './Components/AddResponse';
 import ItemsByCategory from './Components/ItemsByCategory';
